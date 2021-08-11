@@ -1,16 +1,13 @@
-# tap_game
+##  👇TAP_WAR FLUTTER
 
-A new Flutter project.
+Flutter tap game
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Demo Url
+# -Use to Mobile web
+## https://tapwar-71f83.web.app/#/ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1](https://user-images.githubusercontent.com/81583706/129010933-b0dc6937-ce74-449a-8051-764829bf4b50.png)
+![Screenshot_2](https://user-images.githubusercontent.com/81583706/129010939-ec5e5228-6610-4403-bf1e-710dba2a817b.png)
+![Screenshot_3](https://user-images.githubusercontent.com/81583706/129010940-eace595b-e93b-4d5b-ac90-b99d221afabb.png)
