@@ -2,7 +2,7 @@
 
 Flutter tap game
 
-
+![ss](https://github.com/mrasityilmaz/Tap_War_Flutter/blob/master/preview.png)
 
 # Demo Url
 # -Use to Mobile web
